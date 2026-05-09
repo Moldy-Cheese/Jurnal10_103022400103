@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{372A33DD-5220-416B-BA74-C13DCDF02380}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\visualstudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{372A33DD-5220-416B-BA74-C13DCDF02380}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\visualstudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{372A33DD-5220-416B-BA74-C13DCDF02380}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{372A33DD-5220-416B-BA74-C13DCDF02380}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\modul10_103022400103.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\modul10_103022400103.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\visualstudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\visualstudio.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|c:\\users\\praktikan\\downloads\\jnew\\modul10_103022400103\\modul10_103022400103\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A0BD6EE-7A06-6B17-77AF-929E7ED384CC}|Modul10_103022400103\\Modul10_103022400103.csproj|solutionrelative:modul10_103022400103\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +34,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Game.cs",
+              "RelativeDocumentMoniker": "Modul10_103022400103\\Game.cs",
+              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Game.cs",
+              "RelativeToolTip": "Modul10_103022400103\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:13:36.435Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Modul10_103022400103\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Controllers\\GameController.cs*",
+              "RelativeToolTip": "Modul10_103022400103\\Controllers\\GameController.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:18:36.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modul10_103022400103.http",
+              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Modul10_103022400103.http",
+              "RelativeDocumentMoniker": "Modul10_103022400103\\Modul10_103022400103.http",
+              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Modul10_103022400103.http",
+              "RelativeToolTip": "Modul10_103022400103\\Modul10_103022400103.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-09T07:39:58.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Program.cs",
+              "RelativeDocumentMoniker": "Modul10_103022400103\\Program.cs",
+              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Program.cs",
+              "RelativeToolTip": "Modul10_103022400103\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T07:39:54.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "VisualStudio.gitignore",
               "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\VisualStudio.gitignore",
               "RelativeDocumentMoniker": "Modul10_103022400103\\VisualStudio.gitignore",
@@ -35,20 +105,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Program.cs",
-              "RelativeDocumentMoniker": "Modul10_103022400103\\Program.cs",
-              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Program.cs",
-              "RelativeToolTip": "Modul10_103022400103\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T06:56:57.644Z",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Modul10_103022400103\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PRAKTIKAN\\Downloads\\Jnew\\Modul10_103022400103\\Modul10_103022400103\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Modul10_103022400103\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T07:20:00.465Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
